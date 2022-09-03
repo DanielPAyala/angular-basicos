@@ -1,5 +1,7 @@
 # Bases
 
+Url: [Bases App](https://regal-tulumba-2b1f01.netlify.app/)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.1.
 
 ## Development server
